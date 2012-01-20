@@ -5,6 +5,7 @@ this is simple gentoo-prefix installer
 CC0:http://creativecommons.org/publicdomain/zero/1.0/
 
 ##INSTALL
+export EPREFIX=$HOME/gentoo
 ./00_bootstrap.sh
 ./01_emerge.sh
 ./02_system.sh
