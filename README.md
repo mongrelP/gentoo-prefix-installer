@@ -1,4 +1,4 @@
-README
+##README
 this is simple gentoo-prefix installer
 
 ##Licence
